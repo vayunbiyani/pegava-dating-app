@@ -7,7 +7,7 @@
     "slug": "pegava",
     "icon": "./src/assets/images/icon.png",
     "orientation": "portrait",
-    "platforms": ["ios", "android"],
+    "platforms": ["ios", "android", "web"],
     "androidStatusBar": {
       "barStyle": "light-content",
       "backgroundColor": "#070F26",
